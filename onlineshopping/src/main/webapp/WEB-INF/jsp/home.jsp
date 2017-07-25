@@ -70,9 +70,9 @@
 			<div class="col-md-3">
 				<p class="lead">Shop Name</p>
 				<div class="list-group">
-					<a href="#" class="list-group-item">Category 1</a> <a href="#"
-						class="list-group-item">Category 2</a> <a href="#"
-						class="list-group-item">Category 3</a>
+					<a href="#" class="list-group-item">${categories[0].name}</a> <a href="#"
+						class="list-group-item">${categories[1].name}</a> <a href="#"
+						class="list-group-item">${categories[2].name}</a>
 				</div>
 			</div>
 
